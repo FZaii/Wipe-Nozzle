@@ -12,24 +12,22 @@
 
 ## 主要特点
 > - [x] 保护喷嘴
+> - [x] 四氟管耐高温
 > - [x] 多种耗材适用
-> - [x] 磁吸废料箱
+> - [x] 3种磁吸废料箱
 > - [x] 另附铜刷版本
 
 
-**>**[![releases](https://img.shields.io/github/v/release/FZaii/FZ-Extruder)](https://github.com/FZaii/FZ-Extruder/releases)**<**
+**>**[![releases](https://img.shields.io/github/v/release/FZaii/Wipe-Nozzle)](https://github.com/FZaii/Wipe-Nozzle/releases)**<**
 ## 更新历史
 
 > **[Ver 1.0]** 2023.02.11  
-> - 优化底部2个m3螺丝孔大小
-> - 修改了底部的外形
 
  
 ## 备注
-- 挤出轮臂根据[**`Sherpa mini`**](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) 修改而来
+- **`参考Bambu 3D打印机设计`**
 
-- **向下/向后** 两种固定方向
+- **四氟管/铜刷** 两种清洁方式
  
 ## 其他
 ![BOM]([物料清单]-BOM_ver1.2.png)
-![Gears](Images-效果图/FZ-Extruder_Gears.png)
