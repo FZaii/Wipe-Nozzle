@@ -21,8 +21,8 @@
 **>**[![releases](https://img.shields.io/github/v/release/FZaii/Wipe-Nozzle)](https://github.com/FZaii/Wipe-Nozzle/releases)**<**
 ## 更新历史
 
-> **[Ver 1.0]** 2023.02.11  
-> - 修改了宏文件——加快擦拭速度
+> **[Ver 1.0]** 2023.02.17  
+> - 修改了宏文件 —— 加快擦拭速度
 > - 修改了介绍文档
  
 ## 备注
