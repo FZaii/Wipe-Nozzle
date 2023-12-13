@@ -16,7 +16,7 @@ gcode:
 
     M104 S{EXTRUDER_TEMP_PRE}       #设置挤出机预热温度
     M140 S{BED_TEMP}                #设置热床打印温度
-    BED_MESH_CLEAR                  #卸载网床
+#    BED_MESH_CLEAR                  #卸载网床
     G28                             #归零3轴
     Z_TILT_ADJUST                  #Z轴调平
     M109 S{EXTRUDER_TEMP}           #等待挤出机至打印温度
