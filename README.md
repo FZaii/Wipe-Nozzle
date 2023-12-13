@@ -6,7 +6,7 @@
 
  ---
  
-![FZ-Wipe-Nozzle](Images-效果图/FZ-Wipe-Nozzle.png)
+![FZ-Wipe-Nozzle-v2](Images-效果图/FZ-Wipe-Nozzle-v2.png)
  
  ---
 
