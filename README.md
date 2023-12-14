@@ -12,7 +12,7 @@
   [Nozzle wipe kit designed with reference to Bambu 3D printer]</p>*
 
 **<p align="center">[![releases](https://img.shields.io/github/v/release/FZaii/Wipe-Nozzle)](https://github.com/FZaii/Wipe-Nozzle/releases)**
-**<h3 align="center">修改了一下，正在上传……</h3>**
+**<h3 align="center">喷嘴擦拭套件2.0已上传</h3>**
 *<p align="center">反馈意见可以通过[📺BiliBili](https://space.bilibili.com/1898517)私信</p>*
 
  ---
