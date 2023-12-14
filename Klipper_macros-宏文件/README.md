@@ -27,8 +27,8 @@ gcode:
     G90                             #所有轴使用绝对定位
     M83                             #挤出机使用相对定位
     G92 E0                          #重置挤出机
-    G1 Y30 F3000
-#   BED_MESH_PROFILE LOAD=default   #加载网床
-#   M109 S{EXTRUDER_TEMP}           #等待挤出机至打印温度
+#    G1 Y30 F3000
+#    BED_MESH_PROFILE LOAD=default   #加载网床
+#    M109 S{EXTRUDER_TEMP}           #等待挤出机至打印温度
 
 ```
